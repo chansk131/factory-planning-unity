@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="marker" size="0.040000 0.040000" />
+    <ImageTarget name="6_Waste" size="0.040000 0.040000" />
+    <ImageTarget name="5_Storage" size="0.060000 0.040000" />
+    <ImageTarget name="4_Assembly" size="0.080000 0.040000" />
+    <ImageTarget name="3_Shear" size="0.060000 0.040000" />
+    <ImageTarget name="2_Milling" size="0.040000 0.040000" />
+    <ImageTarget name="1_Inventory" size="0.060000 0.040000" />
+  </Tracking>
+</QCARConfig>

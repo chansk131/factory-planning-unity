@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>FLP-2017.2</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\chan1\Documents\Bristol\2017\IRP\Unity\FLP-2017.2\Apps\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\chan1\Documents\Bristol\2017\IRP\Unity\FLP-2017.2\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity2017.2\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
